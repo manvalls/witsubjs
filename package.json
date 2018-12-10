@@ -5,7 +5,7 @@
   "main": "./dist/witsub.cjs.js",
   "module": "./dist/witsub.esm.js",
   "dependencies": {
-    "jwit": "^5.0.0"
+    "jwit": "^6.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
